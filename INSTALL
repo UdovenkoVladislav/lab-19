@@ -1,0 +1,7 @@
+- 1) Для сборки программы Lab-20 необходимо установить Java SE Development Kit 8u202, 
+который доступен по ссылке https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html
+- 2)Для сборки запустить скрипт build.bat
+- 3) Для запуска программы необходимо установить Java SE Runtime Environment 8u202, 
+который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/2133155
+- 4) Для корректной работы программы следует скопировать файлы-изображения с расширением png в папку bin
+- 5) Для запуска прораммы используйте файл lab-20.bat, находящийся в директории lab-20/bin
